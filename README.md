@@ -3,6 +3,9 @@
 Created a  chatting app 
 ![image](https://github.com/nishantsinha1197/chat-app/assets/49277718/6409e5b4-21f4-491d-b818-5d8e1fb4a6ee)
 
+User needs to enter the username to login.
+Once logged in user can start chattting.
+
 # In order to see communication open the localhost in two differnt browers , i.e google chrome and another in microsoft edge or firefox
 ## URL : http://localhost:3000/
 # 1st Google-chrome
