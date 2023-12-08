@@ -14,10 +14,7 @@ Created a  chatting app
 # Backend 
 ## PORT : 5001
 Depedencies required for backend : 
-cors
-express
-nodemon 
-socket.io
+cors ,express,nodemon ,socket.io
 
 # Running command for backend : npm start
 
@@ -25,10 +22,7 @@ socket.io
 
 Dependencies required for front-end :
 
-antd
-firebase
-lodash
-socket.io-client
+antd,firebase,lodash,socket.io-client
 
 # Running command for frontend : npm start
 In the project directory, you can run:
