@@ -12,6 +12,7 @@ Create a  chatting app
 ![image](https://github.com/nishantsinha1197/chat-app/assets/49277718/6e0241a2-3287-4c38-89ca-0a4c1520e938)
 
 # Backend 
+## PORT : 5001
 Depedencies required for backend : 
 cors
 express
@@ -21,6 +22,7 @@ socket.io
 # Running command for backend : npm start
 
 # Frontend 
+
 Dependencies required for front-end :
 
 antd
